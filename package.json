@@ -1,0 +1,22 @@
+{
+  "name": "holter",
+  "version": "0.0.1",
+  "description": "A simple node cron job for monitoring website urls",
+  "main": "/lib/index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegrid22593/holter.git"
+  },
+  "keywords": [
+    "monitoring"
+  ],
+  "author": "Garrett Sanderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegrid22593/holter/issues"
+  },
+  "homepage": "https://github.com/thegrid22593/holter#readme"
+}
